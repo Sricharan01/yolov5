@@ -1,0 +1,5 @@
+train: /kaggle/input/drones-data-v2/dataset/train
+val: /kaggle/input/drones-data-v2/dataset/test
+nc: 1
+names: ['drone',
+]
